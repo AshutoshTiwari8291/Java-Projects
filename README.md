@@ -4,42 +4,47 @@
 This is having APIs related to the solcial media application where I have created two entities as User and Posts. Here below you can find what are the APIs:
 
 # URLs
-Basic Resources
-  http://localhost:8080/hello-world
-  http://localhost:8080/hello-world-bean
-  http://localhost:8080/hello-world/path-variable/Ashutosh
-  http://localhost:8080/users
-  http://localhost:8080/users/1
+Basic Resources <br/>
+  http://localhost:8080/hello-world<br/>
+  http://localhost:8080/hello-world-bean<br/>
+  http://localhost:8080/hello-world/path-variable/Ashutosh<br/>
+  http://localhost:8080/users<br/>
+  http://localhost:8080/users/1<br/>
   
-JPA Resources
-  http://localhost:8080/jpa/users
-  http://localhost:8080/jpa/users/1
-  http://localhost:8080/jpa/users/10001/posts
+JPA Resources<br/>
+  http://localhost:8080/jpa/users<br/>
+  http://localhost:8080/jpa/users/1<br/>
+  http://localhost:8080/jpa/users/10001/posts<br/>
   
-Filtering
-  http://localhost:8080/filtering
-  http://localhost:8080/filtering-list
-Actuator
-  http://localhost:8080/actuator
-Versioning
-  http://localhost:8080/v1/person
-  http://localhost:8080/v2/person
-  http://localhost:8080/person
-params=[version=1]
-  http://localhost:8080/person
-  params=[version=2]
-  http://localhost:8080/person/header
-  headers=[X-API-VERSION=1]
-  http://localhost:8080/person/header
-  headers=[X-API-VERSION=2]
-  http://localhost:8080/person/accept
-  produces=[application/vnd.company.app-v1+json]
-  http://localhost:8080/person/accept
-  produces=[application/vnd.company.app-v2+json]
-Swagger
-  http://localhost:8080/swagger-ui.html
-  http://localhost:8080/v3/api-docs
-H2-Console
-  http://localhost:8080/h2-console
-HAL Browser
-  http://localhost:8080
+Filtering<br/>
+  http://localhost:8080/filtering<br/>
+  http://localhost:8080/filtering-list<br/>
+  
+Actuator<br/>
+  http://localhost:8080/actuator<br/>
+  
+Versioning<br/>
+  http://localhost:8080/v1/person<br/>
+  http://localhost:8080/v2/person<br/>
+  http://localhost:8080/person<br/>
+params=[version=1]<br/>
+  http://localhost:8080/person<br/>
+  params=[version=2]<br/>
+  http://localhost:8080/person/header<br/>
+  headers=[X-API-VERSION=1]<br/>
+  http://localhost:8080/person/header<br/>
+  headers=[X-API-VERSION=2]<br/>
+  http://localhost:8080/person/accept<br/>
+  produces=[application/vnd.company.app-v1+json]<br/>
+  http://localhost:8080/person/accept<br/>
+  produces=[application/vnd.company.app-v2+json]<br/>
+  
+Swagger<br/>
+  http://localhost:8080/swagger-ui.html<br/>
+  http://localhost:8080/v3/api-docs<br/>
+  
+H2-Console<br/>
+  http://localhost:8080/h2-console<br/>
+  
+HAL Browser<br/>
+  http://localhost:8080<br/>
