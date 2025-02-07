@@ -1,4 +1,6 @@
-import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+package com.spring.security;
 
-public class DsInitializer extends AbstractAnnotationConfigDispatcherServletInitializer   {
+//import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+public class DsInitializer extends {
 }

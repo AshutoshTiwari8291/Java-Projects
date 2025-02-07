@@ -1,0 +1,58 @@
+package com.microservices.employeeapp.employee_service.response;
+
+public class EmployeeResponse {
+    private int id;
+    private String name;
+    private String email;
+    private String bloodGroup;
+    private AddressResponse addressResponse;
+
+    public AddressResponse getAddressResponse() {
+        return addressResponse;
+    }
+
+    public EmployeeResponse() {}
+
+    public EmployeeResponse(int id, String name, String email, String bloodGroup) {
+        this.id = id;
+        this.name = name;
+        this.email = email;
+        this.bloodGroup = bloodGroup;
+    }
+
+    public void setAddressResponse(AddressResponse addressResponse) {
+        this.addressResponse = addressResponse;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getBloodGroup() {
+        return bloodGroup;
+    }
+
+    public void setBloodGroup(String bloodGroup) {
+        this.bloodGroup = bloodGroup;
+    }
+}

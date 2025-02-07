@@ -1,4 +1,6 @@
 package com.shopping.micoservices.product.dto;
 
-public record ProductResponse() {
+import java.math.BigDecimal;
+
+public record ProductResponse(String id, String name, String description, BigDecimal price) {
 }

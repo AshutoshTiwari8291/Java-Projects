@@ -1,0 +1,2 @@
+INSERT INTO `inventory_service`.`t_inventory` (`id`, `sku_code`, `quantity`) VALUES ('3', 'IPHONE_13_RED', '130');
+INSERT INTO `inventory_service`.`t_inventory` (`id`, `sku_code`, `quantity`) VALUES ('2', 'IPHONE_12_GREY', '0');
