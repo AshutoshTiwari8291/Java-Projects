@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d8e78a-fd7e-406d-8645-cb4d7e84de89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/InterviewBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/SingletonWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/Spring/Core/UnderstandJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/scope/ScopeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Spring-Core/src/main/java/com/springcore/spring/scope/SingletonScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/config/AddressConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/controller/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/repository/AddressRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/response/AddressResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/address-service/address-service/src/main/java/com/microservices/address_service/address_service/service/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service - AfterL4/src/main/java/com/microservices/employeeapp/employee_service/feignclient/AddressClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service/src/main/java/com/microservices/employeeapp/employee_service/controller/EmployeeContoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service/src/main/java/com/microservices/employeeapp/employee_service/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service/src/main/java/com/microservices/employeeapp/employee_service/repository/EmployeeRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service/src/main/java/com/microservices/employeeapp/employee_service/response/EmployeeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GG/employee-service/src/main/java/com/microservices/employeeapp/employee_service/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webapp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/starter/dummy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/starter/dummy/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../configurations/configurations.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/src/main/java/com/example/limits/LimitServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/src/main/java/com/example/limits/bean/LimitConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/src/main/java/com/example/limits/contoller/LimitsConfigurationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../limit-service/src/test/java/com/example/limits/LimitServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/src/main/java/com/understandServices/spring_cloud_config_server/SpringCloudConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-server/src/test/java/com/understandServices/spring_cloud_config_server/SpringCloudConfigServerApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2pCsKzpz4Hckn1Nx8YG5CCpYB1L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d8e78a-fd7e-406d-8645-cb4d7e84de89" name="Changes" comment="" />
+      <created>1732281331960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732281331960</updated>
+    </task>
+    <servers />
+  </component>
+</project>
