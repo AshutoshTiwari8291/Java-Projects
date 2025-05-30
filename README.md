@@ -1,4 +1,4 @@
-# This Repo contains lots of learning and projects. Please check more details inside the projects.
+# This Repository contains learning and projects.
 
 - In28Min - Java Learnings
 - Selenium Express - Microservices Learning
