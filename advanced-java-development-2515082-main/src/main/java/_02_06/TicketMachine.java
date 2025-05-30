@@ -22,28 +22,28 @@ public class TicketMachine {
         List<String> destinations = flattenList(destinationLists);
         System.out.println(destinations);
 
-//        List<Ticket> tickets = flattenList(ticketLists);
-//        System.out.println(tickets);
+        List<Ticket> tickets = flattenList(ticketLists);
+        System.out.println(tickets);
 
-//        System.out.println("Total price: " + getTotalPrice(tickets));
+        System.out.println("Total price: " + getTotalPrice(tickets));
 
-//        List<AdultTicket> adultTickets = asList(new AdultTicket(), new AdultTicket());
-//        System.out.println("Total price: " + getTotalPrice(adultTickets));
+        List<AdultTicket> adultTickets = asList(new AdultTicket(), new AdultTicket());
+        System.out.println("Total price: " + getTotalPrice(adultTickets));
 
     }
 
 
     //This should work with lists containing any type of object
-    static List<String> flattenList(List<List<String>> nestedList) {
+    static <T> List<T> flattenList(List<List<T>> nestedList) {
 
-        List<String> flattenedList = new ArrayList<>();
+        List<T> flattenedList = new ArrayList<>();
         nestedList.forEach(flattenedList::addAll);
         return flattenedList;
 
     }
 
     // This should work with lists containing Ticket objects or any subclass of Ticket
-    static int getTotalPrice(List<Ticket> tickets) {
+    static int getTotalPrice(List<? extends Ticket> tickets) {
         int totalPrice = 0;
         for (Ticket ticket : tickets) {
             totalPrice += ticket.getPrice();

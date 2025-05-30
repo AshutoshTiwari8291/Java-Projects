@@ -13,9 +13,6 @@ public class GenericsExample {
         String circle = shapes.get(0);
         shapes.add("Rectangle");
         String rectangle = shapes.get(1);
-
-
-
     }
 
 }

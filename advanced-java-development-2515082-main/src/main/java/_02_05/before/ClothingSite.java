@@ -8,11 +8,13 @@ public class ClothingSite {
     public static void main(String[] args) {
 
         ShirtItem shirtItem = new ShirtItem();
+        ShirtItem shirtItem2 = new ShirtItem();
+
         JacketItem jacketItem = new JacketItem();
 
-        List<ClothingItem> clothingItems = new ArrayList<>();
+        List<ShirtItem> clothingItems = new ArrayList<>();
         clothingItems.add(shirtItem);
-        clothingItems.add(jacketItem);
+        clothingItems.add(shirtItem2);
 
         checkoutAllItems(clothingItems);
 
@@ -22,8 +24,7 @@ public class ClothingSite {
         System.out.println("Item purchased: " + item.getName() + ", price: " + item.getPrice());
     }
 
-    static void checkoutAllItems(List<ClothingItem> clothingItems) {
-
+    static void checkoutAllItems(List<? extends ClothingItem> clothingItems) {
         for (ClothingItem clothingItem : clothingItems) {
             checkoutItem(clothingItem);
         }
